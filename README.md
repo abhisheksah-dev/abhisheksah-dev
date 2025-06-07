@@ -19,7 +19,7 @@
 - 🌱 I’m actively learning **Backend Development** and exploring advanced concepts
 - 🤝 I'm open to collaborating on **Open Source** and **Full Stack Projects**
 - 🧑‍💼 Portfolio: [abhishek-kumar-sah-portfolio.netlify.app](https://abhishek-kumar-sah-portfolio.netlify.app/)
-- ✍ I write tech articles and insights on [LinkedIn](https://www.linkedin.com/in/abhishek-sah-703ba8271/)
+- ✍ I write tech articles and insights on [LinkedIn](www.linkedin.com/in/abhishekkumarsah99)
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me at: **abhishekkumar220801@acropolis.in**
 - ⚡ Fun fact: *I bring humor to bugs before I squash them 🐞😄*
