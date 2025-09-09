@@ -82,7 +82,7 @@
 *Creating server-side applications and APIs*
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=cpp,c,python" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,c" alt="Languages" />
 <br/>
 *Problem solving and application development*
 
